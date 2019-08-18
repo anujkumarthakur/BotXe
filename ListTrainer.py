@@ -1,0 +1,1 @@
+from chatterbot.trainers import ListTrainer  # method to train the chatbot
